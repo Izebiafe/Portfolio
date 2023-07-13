@@ -628,6 +628,7 @@ img {
   }
 
   .footer button {
+    margin-top: 10px;
     display: inline;
   }
 }
