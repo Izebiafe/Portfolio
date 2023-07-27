@@ -454,7 +454,7 @@ hr {
     margin: auto;
   }
 
-  .contact .contact-text p {
+  /* .contact .contact-text p {
     font-style: normal;
     font-weight: 400;
     font-size: 20px;
@@ -462,5 +462,5 @@ hr {
     color: #ebebff;
     width: 71%;
     margin: 15px auto;
-  }
+  } */
 }
